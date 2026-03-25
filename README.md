@@ -39,8 +39,8 @@
 ## ULTIMAKER CURA:
 ![alt text](<Screenshot 2026-03-17 190755.png>)
 
-### Name: Karthic V
-### Register Number: 212225240068
+### Name: SRI JAYAKRISHNA E
+### Register Number: 212225240158
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
