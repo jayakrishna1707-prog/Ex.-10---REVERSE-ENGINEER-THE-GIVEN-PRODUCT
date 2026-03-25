@@ -34,13 +34,13 @@
 ![alt text](<WhatsApp Image 2026-03-17 at 19.12.43.jpeg>)
 ### Output:
 ## AUTODESK FUSION:
-![alt text](<Screenshot 2026-03-17 190632.png>)
+![alt text](<Screenshot 2026-03-17 190449.png>)
 
 ## ULTIMAKER CURA:
-![alt text](<Screenshot 2026-03-17 190908.png>)
+![alt text](<Screenshot 2026-03-17 190775.png>)
 
-### Name:
-### Register Number:
+### Name: Karthic V
+### Register Number: 212225240068
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
